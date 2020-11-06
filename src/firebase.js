@@ -1,13 +1,13 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDKRfVBgRSPvrxGwvtVm4M8hmB8RaBNL6c",
-  authDomain: "dporwal-fbclone-7b383.firebaseapp.com",
-  databaseURL: "https://dporwal-fbclone-7b383.firebaseio.com",
-  projectId: "dporwal-fbclone-7b383",
-  storageBucket: "dporwal-fbclone-7b383.appspot.com",
-  messagingSenderId: "979726564032",
-  appId: "1:979726564032:web:1843da8704fbcbf6110b25",
+  apiKey: "AIzaSyAggzkGydpe4U5dKoFgAuCxwQT-zc1JlYs",
+  authDomain: "dprowal-fb-mern.firebaseapp.com",
+  databaseURL: "https://dprowal-fb-mern.firebaseio.com",
+  projectId: "dprowal-fb-mern",
+  storageBucket: "dprowal-fb-mern.appspot.com",
+  messagingSenderId: "705240877955",
+  appId: "1:705240877955:web:09d1f4dbcaba861d0a44b6",
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
