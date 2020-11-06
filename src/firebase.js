@@ -1,13 +1,13 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAggzkGydpe4U5dKoFgAuCxwQT-zc1JlYs",
-  authDomain: "dprowal-fb-mern.firebaseapp.com",
-  databaseURL: "https://dprowal-fb-mern.firebaseio.com",
-  projectId: "dprowal-fb-mern",
-  storageBucket: "dprowal-fb-mern.appspot.com",
-  messagingSenderId: "705240877955",
-  appId: "1:705240877955:web:09d1f4dbcaba861d0a44b6",
+  apiKey: "AIzaSyDRn2ESWVwskSYj4Ruz7aQPnlnDnmbitF4",
+  authDomain: "facebookclone-dporwal.firebaseapp.com",
+  databaseURL: "https://facebookclone-dporwal.firebaseio.com",
+  projectId: "facebookclone-dporwal",
+  storageBucket: "facebookclone-dporwal.appspot.com",
+  messagingSenderId: "229590850276",
+  appId: "1:229590850276:web:8bc4d7ca3c40e197c1aaf1",
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
